@@ -1,0 +1,11 @@
+{
+  "name": "voice-sample",
+  "version": "1.0.0",
+  "description": "Sample for speech recognition and understanding with Dialogflow",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luigi De Russis",
+  "license": "ISC"
+}
